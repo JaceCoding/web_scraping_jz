@@ -6,7 +6,7 @@ from fpdf import FPDF
 novel_name = 'swallowed_star'
 
 # Latest chapter of the novel
-max_chapter = 1486
+max_chapter = 5
 
 
 pdf = FPDF()
